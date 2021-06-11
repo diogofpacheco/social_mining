@@ -4,7 +4,7 @@ The following code is used to gather tweets using the streaming API. These are t
  1. Clone this repo to your environment
  2. Install the dependencies
  3. Run the script. The config file should be in social_mining/res/config/ folder.
- 4. The script will run indefinetely, listening to Twitter and copying them whenever they match your [criteria](#configuration). 
+ 4. The script will run indefinetely, listening to Twitter and copying them whenever they match your [criteria](#configuration). Every day, a new file will be created. Ctrl+C to stop the application.
 ```
 git clone git@github.com:diogofpacheco/social_mining.git
 pip3 install twitter --user
