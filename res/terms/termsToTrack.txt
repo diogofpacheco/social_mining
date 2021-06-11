@@ -1,0 +1,6 @@
+# list of terms to query tweets. Similar to using the web search field. It will match a tweet text or any other metadata in user profile.
+track = "#TermsToTrackTest, @diogofpacheco"
+# list of account_ids. It will track all tweets performed by these accounts and also any mention to them.
+follow = "221381860"
+extra_track = 
+extra_follow = 
