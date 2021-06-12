@@ -10,7 +10,7 @@ git clone git@github.com:diogofpacheco/social_mining.git
 pip3 install twitter --user
 pip3 install configobj --user
 cd social_mining/src/
-python3 streamtweets.py --config=termsToTrack.txt
+python3 streamtweets.py --config=config-example.txt
 ```
 # Configuration
 
